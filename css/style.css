@@ -2672,6 +2672,12 @@ textarea.form-input {
 	text-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
 
+.project-classic-text2 {
+	max-width: 400px;
+	color: #00025c;
+	text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
 * + .project-classic-text {
 	margin-top: 20px;
 }
